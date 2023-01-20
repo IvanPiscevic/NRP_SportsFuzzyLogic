@@ -1,0 +1,12 @@
+football
+basketball
+handball
+rally
+swimming
+curling
+cycling
+boxing
+skiing
+hockey
+sledding
+dancing
